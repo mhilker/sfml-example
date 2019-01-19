@@ -1,3 +1,6 @@
+# SFML Example
+
+```bash
 sudo apt-get install libpthread-stubs0-dev
 sudo apt-get install libgl1-mesa-dev
 sudo apt-get install libx11-dev
@@ -19,3 +22,4 @@ cmake -G"Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=FALSE
 
 make
 make install
+```
