@@ -1,3 +1,0 @@
-/home/cwan/projects/sfml-example/CMakeFiles/rebuild_cache.dir
-/home/cwan/projects/sfml-example/CMakeFiles/edit_cache.dir
-/home/cwan/projects/sfml-example/CMakeFiles/sfmltest.dir
