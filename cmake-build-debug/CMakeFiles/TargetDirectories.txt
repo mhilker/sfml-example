@@ -1,3 +1,0 @@
-/home/maik/projects/sfml-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/maik/projects/sfml-example/cmake-build-debug/CMakeFiles/sfmlexample.dir
-/home/maik/projects/sfml-example/cmake-build-debug/CMakeFiles/edit_cache.dir
